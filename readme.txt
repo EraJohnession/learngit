@@ -5,5 +5,9 @@ add tree
 Creating a new branch is quick.
 add abcaadd
 fix bug
+<<<<<<< HEAD
 ===========
 work...
+=======
+--->fix issue
+>>>>>>> ee2403c... fixed issue-1
